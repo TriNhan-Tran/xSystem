@@ -1,0 +1,9 @@
+[submodule "third_party/Logger"]
+	path = third_party/Logger
+	url = https://github.com/TriNhan-Tran/Logger.git
+[submodule "third_party/MessageQueue"]
+	path = third_party/MessageQueue
+	url = https://github.com/TriNhan-Tran/MessageQueue.git
+[submodule "third_party/linux_binder"]
+	path = third_party/linux_binder
+	url = https://github.com/TriNhan-Tran/linux_binder.git
