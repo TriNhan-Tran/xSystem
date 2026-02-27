@@ -1,0 +1,22 @@
+# Build outputs
+build/
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Generated binaries
+xMonitor
+xMonitorLifecycle
+xMonitorCpuService
+xMonitorRamService
+xMonitorMemoryService
+
+# Logs
+logs/
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
